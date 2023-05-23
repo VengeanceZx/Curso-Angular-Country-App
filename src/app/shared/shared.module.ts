@@ -8,6 +8,7 @@ import { HomePageComponent } from './pages/home-page/home-page.component';
 import { LoadingComponentComponent } from './components/loading-component/loading-component.component';
 import { SearchBoxComponent } from './components/search-box/search-box.component';
 import { SideBarComponent } from './components/sidebar/sidebar.component';
+import { LigthsaberLoadingComponent } from './components/ligthsaber-loading/ligthsaber-loading.component';
 
 
 
@@ -19,6 +20,7 @@ import { SideBarComponent } from './components/sidebar/sidebar.component';
     LoadingComponentComponent,
     SearchBoxComponent,
     SideBarComponent,
+    LigthsaberLoadingComponent,
   ],
   imports: [
     CommonModule,
